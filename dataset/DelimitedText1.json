@@ -10,6 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
+				"fileName": "TaxiRides (1).csv",
 				"fileSystem": "taxidata"
 			},
 			"columnDelimiter": ",",
